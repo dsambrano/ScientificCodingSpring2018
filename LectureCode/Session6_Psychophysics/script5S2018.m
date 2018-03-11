@@ -50,7 +50,7 @@ shg
 testDisp(4,3,:) = 255; 
 pause
 image(testDisp)
-%axis equal
+%axis equal 
 shg
 
 %The third dimension of the image matrix represents the color channel, in
